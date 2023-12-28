@@ -1,0 +1,1 @@
+Incredible FAST a MEMORY-SAFE calculator written entierly on RUST programming language🚀🚀🚀
